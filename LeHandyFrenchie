@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>LeHandyFrenchie - Handyman & Repair Services</title>
+  <title>LeHandyFrenchy - Handyman & Repair Services</title>
   <style>
     body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; }
     header { background-color: #2c3e50; color: white; text-align: center; padding: 40px 0; }
@@ -20,7 +20,7 @@
 <body>
 
 <header>
-  <h1>LeHandyFrenchie</h1>
+  <h1>LeHandyFrenchy</h1>
   <p>Your Trusted Handyman in Davis & Salt Lake Counties</p>
   <a href="https://yourjobberbookinglink.com" class="button">📅 Book a Job Today!</a>
 </header>
@@ -37,25 +37,25 @@
 
 <section>
   <h2>🛠️ Why Choose Us?</h2>
-  <p>With over 30 years of experience, LeHandyFrenchie is the go-to handyman for any job, big or small. We pride ourselves on attention to detail, high-quality work, and customer satisfaction.</p>
+  <p>With over 30 years of experience, LeHandyFrenchy is the go-to handyman for any job, big or small. We pride ourselves on attention to detail, high-quality work, and customer satisfaction.</p>
   <p>No job is too small for us, and we are proud to serve residents of Davis and Salt Lake Counties.</p>
 </section>
 
 <section>
   <h2>⭐ Customer Reviews</h2>
-  <p>"I hired LeHandyFrenchie for drywall repair, and I couldn't be happier with the work. Fast, reliable, and affordable!" – John D.</p>
-  <p>"We had stucco repair done at our home, and the team at LeHandyFrenchie was exceptional. Highly recommend!" – Sarah L.</p>
+  <p>"I hired LeHandyFrenchy for drywall repair, and I couldn't be happier with the work. Fast, reliable, and affordable!" – John D.</p>
+  <p>"We had stucco repair done at our home, and the team at LeHandyFrenchy was exceptional. Highly recommend!" – Sarah L.</p>
 </section>
 
 <section>
   <h2>📞 Contact Us</h2>
   <p class="contact-info">Phone: (123) 456-7890</p>
-  <p class="contact-info">Email: handyman@lehandyfrenchie.com</p>
+  <p class="contact-info">Email: handyman@lehandyfrenchy.com</p>
   <a href="https://yourjobberbookinglink.com" class="button">Book Online</a>
 </section>
 
 <footer>
-  <p>&copy; 2025 LeHandyFrenchie | Serving Davis & Salt Lake Counties | 30 Years of Experience</p>
+  <p>&copy; 2025 LeHandyFrenchy | Serving Davis & Salt Lake Counties | 30 Years of Experience</p>
 </footer>
 
 </body>
